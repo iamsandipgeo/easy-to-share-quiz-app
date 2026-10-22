@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bulk Quiz Maker",
+  "description": "Bulk import 100+ Bengali and English MCQs, validate structure, preview Telegram Quiz Polls, and publish reliably to channels and groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
